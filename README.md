@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm reza bashiri</h1>
 <h3 align="center">Senior software engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://rezabashiri.com](rezabashiri.com)
+- 👨‍💻 All of my projects are available at [rezabashiri.com](https://rezabashiri.com)
 
 - 📝 I regularly write articles on [https://rezabashiri.com/#posts](https://rezabashiri.com/#posts)
 
